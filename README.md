@@ -4,30 +4,6 @@ End-to-end business analytics project: define KPIs, clean data with SQL/Python, 
 
 ---
 
-## Business problem (what you tell recruiters)
-
-> A multi-region retail company needs to understand **where profit is leaking**, which **customer segments** drive revenue, and which **products/regions** deserve investment. Leadership wants a repeatable KPI view and actionable recommendations—not just charts.
-
-**Your role:** translate data into decisions (pricing, discount policy, regional focus, product mix).
-
----
-
-## Project deliverables (put these on your CV)
-
-| Deliverable | Location |
-|-------------|----------|
-| KPI definitions & hypothesis | `docs/01_business_problem.md` |
-| SQL analysis (joins, aggregations, window functions) | `sql/analysis_queries.sql` |
-| Python ETL + KPI engine | `src/` |
-| Interactive dashboard (Streamlit) | `src/dashboard_app.py` |
-| Executive insights memo | `docs/02_insights_report.md` |
-| **Power BI interactive dashboard** | **`docs/03_power_bi_dashboard_guide.md`** (step-by-step) |
-| Save your `.pbix` here | `powerbi/` |
-
-**One-liner for resume:**  
-*Built an end-to-end retail analytics pipeline (SQL, Python, Streamlit) on 10K orders; identified loss-making segments and regional profit gaps; delivered KPI dashboard and stakeholder-ready recommendations.*
-
----
 
 ## Where to get data (start here)
 
